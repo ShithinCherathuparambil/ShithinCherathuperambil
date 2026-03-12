@@ -72,12 +72,15 @@ I'm a passionate **Flutter developer** with extensive experience in:
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShithinCherathuperambil&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShithinCherathuperambil&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shithincp&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shithincp&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shithincp&layout=compact&theme=tokyonight" />
+</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShithinCherathuperambil&layout=compact&theme=tokyonight" />
 </p>
 
