@@ -3,7 +3,7 @@
 
 <p align="center">
 Building high-quality mobile applications with <strong>Flutter</strong> & <strong>Dart</strong>.
-Professional with 3+ years of experience in Android, iOS development & app store deployment.
+Professional with 4+ years of experience in Android, iOS development & app store deployment.
 </p>
 
 ---
@@ -13,11 +13,11 @@ Professional with 3+ years of experience in Android, iOS development & app store
 I'm a passionate **Flutter developer** with extensive experience in:
 
 - 🔭 **Currently working on**: Personal Flutter projects & client applications
-- 💼 **Professional Background**: 3+ years in mobile app development
+- 💼 **Professional Background**: 4+ years in mobile app development
 - 🌱 **Learning**: Kotlin, Advanced Android native development
 - 👯 **Collaborating on**: Flutter, Firebase, REST APIs, and UI/UX projects
 - 💬 **Ask me about**: Flutter, Dart, Firebase, REST APIs, App Deployment, Clean Architecture
-- 📍 **Location**: Perintalmanna, Kerala, India
+- 📍 **Location**: Malappuram, Kerala, India
 - 🌍 **Open to**: Opportunities in India & Gulf region (Dubai, Qatar, etc.)
 
 ---
